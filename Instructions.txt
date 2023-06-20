@@ -1,0 +1,1 @@
+Run main.py after cmd prompy will pop up, paste youtube playlist link into prompt and it will create a directory called videos wherever you place the main.py script
